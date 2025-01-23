@@ -1,4 +1,4 @@
-# Comparador de Combustíveis - Álcool vs Gasolina
+# Comparador de Combustíveis - Álcool vs Gasolina 💫
 
 Este é um aplicativo simples desenvolvido com **Jetpack Compose** para ajudar a decidir qual combustível é mais vantajoso entre **álcool** e **gasolina**. O aplicativo recebe dois inputs: o preço do litro de álcool e o preço do litro da gasolina. Ele calcula qual dos dois combustíveis oferece o melhor custo-benefício com base em uma regra simples: 
 
